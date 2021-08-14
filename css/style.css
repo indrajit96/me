@@ -20,7 +20,6 @@ body {
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } }
-
 a {
   color: #2c98f0;
   -webkit-transition: 0.5s;
