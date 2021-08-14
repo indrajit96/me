@@ -49,8 +49,8 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>MTS 1 at Mojo Networks <span>2017-2018</span></h2>
 <p>- Working on Mojo Network's Core Product MWM a cloud-based software for intelligent WIFI mangement.</p>
-<p>- Acquired by Arista Networks.</p>
 <p>- C/C++ PSQL</p>
+<p><a href="https://www.arista.com/en/company/news/press-release/5717-pr-20180802">Acquired by Arista Networks</a></p>
 
                       </div>
                     </div>
@@ -71,6 +71,7 @@ export default class Timeline extends Component {
 <p>
 - C++ OOPS Peer to Peer Networks
 </p>
+<p><a href="https://www.mobygames.com/game/windows/monopoly-plus/credits">Monopoly Plus Credits Page</a></p>
                       </div>
                     </div>
                   </article>
@@ -83,6 +84,7 @@ export default class Timeline extends Component {
                         <h2>C Programmer at PICT ROBOCON LAB <span>2014-2017</span></h2>
                         <p>- Member of the prestigious PICT ROBOCON TEAM for 2 years. </p> 
                         <p>- Worked on autonomous robots,Image processing,PS2 controller for locomotion in embedded C.</p>
+                        <p><a href="https://pict.edu/cocurricular/robocon/">PICT Robocon Lab</a></p>
                       </div>
                     </div>
                   </article>
